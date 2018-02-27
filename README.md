@@ -1,12 +1,12 @@
 # Jak zainstalować zsh i skonfigurować z Ruby
 
 ## 1. Zainstaluj zsh
-*Ubuntu
+* Ubuntu
 ```bash
 sudo apt-get install zsh
 ```
 
-*MacOS
+* MacOS
 ```bash
 brew install zsh zsh-completions
 ```
