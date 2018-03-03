@@ -19,7 +19,7 @@ zsh --version
 ```bash
 chsh -s $(which zsh)
 ```
-## 4. Zamknij terminal i otwórz go na nowo
+## 4. Zamknij terminal i otwórz go na nowo (w niektóych przypadkach konieczny może być restart całego systemu)
 
 ## 5. Sprawdź czy po ponownym otworzeniu terminalu domyślną powłoką jest zsh
 ```bash
